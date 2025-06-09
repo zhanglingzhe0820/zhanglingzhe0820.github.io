@@ -13,17 +13,6 @@ During my Master’s studies, I conducted research on **Time-Series Databases**.
 Publications
 ------
 
-<style>
-.paper-card:hover {
-  transform: scale(1.02);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transition: 0.3s ease;
-}
-.paper-card {
-  transition: 0.3s ease;
-}
-</style>
-
 <table class="paper-card">
   <tr>
     <td width="120">
