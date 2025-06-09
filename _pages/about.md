@@ -5,13 +5,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="background-color: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 24px; margin-bottom: 32px; line-height: 1.7; font-size: 16px;">
+  <p style="margin-top: 0;">
+    My name is <strong>Lingzhe Zhang (张凌哲)</strong>. I am a second-year Ph.D. student at <strong>Peking University</strong>, advised by Prof. Ying Li. Prior to this, I received my Master’s degree from <strong>Tsinghua University</strong> in 2023, where I was advised by Prof. Jianmin Wang, and my Bachelor’s degree from <strong>Nanjing University</strong> in 2020.
+  </p>
+  <p>
+    During my Master’s studies, I conducted research on <strong>Time-Series Databases</strong>. Currently, my research focuses on <strong>AIOps</strong>, particularly <strong>AIOps for Databases</strong> and <strong>LLMOps</strong>.
+  </p>
+</div>
 
-My name is Lingzhe Zhang (张凌哲). I am a second-year Ph.D. student at Peking University, advised by Prof. Ying Li. Prior to this, I received my Master’s degree from Tsinghua University in 2023, where I was advised by Prof. Jianmin Wang, and my Bachelor’s degree from Nanjing University in 2020.
-
-During my Master’s studies, I conducted research on **Time-Series Databases**. Currently, my research focuses on AIOps, particularly **AIOps for Databases** and **LLMOps**.
-
-Publications
-------
+<h2 style="font-size: 1.5rem; border-bottom: 2px solid #e0e0e0; padding-bottom: 6px; margin-bottom: 20px;">Publications</h2>
 
 <table class="paper-card">
   <tr>
@@ -143,13 +146,57 @@ Publications
   </tr>
 </table>
 
-Services
-------
+<div style="background-color: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 24px; margin-bottom: 32px; line-height: 1.7; font-size: 16px;">
+  <h2 style="font-size: 1.5rem; border-bottom: 2px solid #e0e0e0; padding-bottom: 6px; margin-top: 0;">Services</h2>
+  <ul style="margin-top: 12px; padding-left: 20px;">
+    <li>Reviewer of <strong>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</strong></li>
+  </ul>
+</div>
 
-- Reviewer of ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+<div style="background-color: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 24px; margin-bottom: 32px; line-height: 1.7; font-size: 16px;">
+  <h2 style="font-size: 1.5rem; border-bottom: 2px solid #e0e0e0; padding-bottom: 6px; margin-top: 28px;">Awards</h2>
+  <ul style="margin-top: 12px; padding-left: 20px;">
+    <li>Presidential Scholarship (校长奖学金), Peking University</li>
+    <li>Merit Student (三好学生), Peking University</li>
+  </ul>
+</div>
 
-Awards
-------
-
-- Presidential Scholarship (校长奖学金), Peking University
-- Merit Student (三好学生), Peking University
+<style>
+  .paper-card {
+    display: flex;
+    align-items: flex-start;
+    padding: 16px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #fff;
+  }
+  .paper-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  }
+  .paper-image {
+    flex-shrink: 0;
+    margin-right: 16px;
+  }
+  .paper-image img {
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+  }
+  .paper-info {
+    flex-grow: 1;
+  }
+  .paper-info b a {
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: #0073e6;
+  }
+  .paper-info b a:hover {
+    text-decoration: underline;
+  }
+  .paper-info i {
+    color: #555;
+  }
+</style>
