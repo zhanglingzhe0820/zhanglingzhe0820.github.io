@@ -19,6 +19,19 @@ redirect_from:
 <table class="paper-card">
   <tr>
     <td width="120">
+      <img src="images/aiops-survey.png" width="100">
+    </td>
+    <td>
+      <b><a href="https://arxiv.org/pdf/2406.11213">A Survey of AIOps in the Era of Large Language Models</a></b><br>
+      <b><i>Lingzhe Zhang</i></b>, Tong Jia, Mengxi Jia, Aiwei Liu, Yong Yang, Zhonghai Wu, Xuming Hu, Philip S. Yu and Ying Li <br/>
+      <i>CSUR 2025</i>
+    </td>
+  </tr>
+</table>
+
+<table class="paper-card">
+  <tr>
+    <td width="120">
       <img src="images/thinkfl.png" width="100">
     </td>
     <td>
@@ -38,19 +51,6 @@ redirect_from:
       <b><a href="https://arxiv.org/pdf/2504.06614">AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents</a></b><br>
       <b><i>Lingzhe Zhang</i></b>, Yunpeng Zhai, Tong Jia, Xiaosong Huang, Chiming Duan and Ying Li <br/>
       <i>FSE 2025</i>
-    </td>
-  </tr>
-</table>
-
-<table class="paper-card">
-  <tr>
-    <td width="120">
-      <img src="images/aiops-survey.png" width="100">
-    </td>
-    <td>
-      <b><a href="https://arxiv.org/pdf/2406.11213">A Survey of AIOps for Failure Management in the Era of Large Language Models</a></b><br>
-      <b><i>Lingzhe Zhang</i></b>, Tong Jia, Mengxi Jia, Aiwei Liu, Yong Yang, Zhonghai Wu, Xuming Hu, Philip S. Yu and Ying Li <br/>
-      <i>arxiv</i>
     </td>
   </tr>
 </table>
