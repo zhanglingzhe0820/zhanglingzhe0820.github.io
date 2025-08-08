@@ -32,6 +32,19 @@ redirect_from:
 <table class="paper-card">
   <tr>
     <td width="120">
+      <img src="images/e-log.png" width="100">
+    </td>
+    <td>
+      <b><a href="https://ieeexplore.ieee.org/abstract/document/11106810">E-Log: Fine-grained Elastic Log-Based Anomaly Detection and Diagnosis for Databases</a></b><br>
+      <b><i>Lingzhe Zhang</i></b>, Tong Jia, Xinyu Yan, Xiangdong Huang, Mengxi Jia, Hongyi Liu, Zhonghai Wu, and Ying Li <br/>
+      <i>TSC 2025</i>
+    </td>
+  </tr>
+</table>
+
+<table class="paper-card">
+  <tr>
+    <td width="120">
       <img src="images/thinkfl.png" width="100">
     </td>
     <td>
