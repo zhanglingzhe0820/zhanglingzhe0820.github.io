@@ -19,6 +19,19 @@ redirect_from:
 <table class="paper-card">
   <tr>
     <td width="120">
+      <img src="images/parallel-text-generation-survey.png" width="100">
+    </td>
+    <td>
+      <b><a href="https://arxiv.org/abs/2508.08712">A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models</a></b><br>
+      <b><i>Lingzhe Zhang</i></b>, Liancheng Fang, Chiming Duan, Minghua He, Leyi Pan, Pei Xiao, Shiyu Huang, Yunpeng Zhai, Xuming Hu, Philip S. Yu and Aiwei Liu <br/>
+      <i>arxiv</i>
+    </td>
+  </tr>
+</table>
+
+<table class="paper-card">
+  <tr>
+    <td width="120">
       <img src="images/aiops-survey.png" width="100">
     </td>
     <td>
@@ -50,6 +63,19 @@ redirect_from:
     <td>
       <b><a href="https://arxiv.org/pdf/2504.18776">ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning</a></b><br>
       <b><i>Lingzhe Zhang</i></b>, Yunpeng Zhai, Tong Jia, Chiming Duan, Siyu Yu, Jinyang Gao, Bolin Ding, Zhonghai Wu and Ying Li <br/>
+      <i>arxiv</i>
+    </td>
+  </tr>
+</table>
+
+<table class="paper-card">
+  <tr>
+    <td width="120">
+      <img src="images/RCLAgent.png" width="100">
+    </td>
+    <td>
+      <b><a href="https://arxiv.org/abs/2508.20370">Adaptive Root Cause Localization for Microservice Systems with Multi-Agent Recursion-of-Thought</a></b><br>
+      <b><i>Lingzhe Zhang</i></b>, Tong Jia, Kangjin Wang, Weijie Hong, Chiming Duan, Minghua He and Ying Li <br/>
       <i>arxiv</i>
     </td>
   </tr>
